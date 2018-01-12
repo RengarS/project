@@ -13,6 +13,8 @@
         <module>discorvery</module>
         <module>admin</module>
         <module>items</module>
+        <module>order</module>
+        <module>web</module>
     </modules>
 
 
